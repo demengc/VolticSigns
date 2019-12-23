@@ -1,0 +1,6 @@
+name: VolticSigns
+version: ${project.version}
+main: com.demeng7215.volticsigns.VolticSigns
+authors: [Demeng7215]
+description: Allows players to create signs that spawn bosses.
+website: https://demeng7215.com
